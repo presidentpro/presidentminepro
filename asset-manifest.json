@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.40c24408.chunk.css",
-    "main.js": "/static/js/main.815dc8af.chunk.js",
-    "main.js.map": "/static/js/main.815dc8af.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.45588324.js",
-    "runtime-main.js.map": "/static/js/runtime-main.45588324.js.map",
+    "main.js": "/static/js/main.6f10fb84.chunk.js",
+    "main.js.map": "/static/js/main.6f10fb84.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7df6a0d8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7df6a0d8.js.map",
     "static/js/2.395d193b.chunk.js": "/static/js/2.395d193b.chunk.js",
     "static/js/2.395d193b.chunk.js.map": "/static/js/2.395d193b.chunk.js.map",
     "static/css/3.da97065b.chunk.css": "/static/css/3.da97065b.chunk.css",
     "static/js/3.6e8dd2c6.chunk.js": "/static/js/3.6e8dd2c6.chunk.js",
     "static/js/3.6e8dd2c6.chunk.js.map": "/static/js/3.6e8dd2c6.chunk.js.map",
     "static/css/4.8948add6.chunk.css": "/static/css/4.8948add6.chunk.css",
-    "static/js/4.f67851c4.chunk.js": "/static/js/4.f67851c4.chunk.js",
-    "static/js/4.f67851c4.chunk.js.map": "/static/js/4.f67851c4.chunk.js.map",
+    "static/js/4.8aabcffa.chunk.js": "/static/js/4.8aabcffa.chunk.js",
+    "static/js/4.8aabcffa.chunk.js.map": "/static/js/4.8aabcffa.chunk.js.map",
     "static/css/5.6432031b.chunk.css": "/static/css/5.6432031b.chunk.css",
     "static/js/5.725f3079.chunk.js": "/static/js/5.725f3079.chunk.js",
     "static/js/5.725f3079.chunk.js.map": "/static/js/5.725f3079.chunk.js.map",
@@ -30,15 +30,17 @@
     "static/css/7.da4eb8f2.chunk.css.map": "/static/css/7.da4eb8f2.chunk.css.map",
     "static/css/main.40c24408.chunk.css.map": "/static/css/main.40c24408.chunk.css.map",
     "static/js/2.395d193b.chunk.js.LICENSE.txt": "/static/js/2.395d193b.chunk.js.LICENSE.txt",
+    "static/media/GOLDMINEFULLLOGO.30b0ee88.png": "/static/media/GOLDMINEFULLLOGO.30b0ee88.png",
+    "static/media/LOGO-04.3a7a9826.png": "/static/media/LOGO-04.3a7a9826.png",
     "static/media/TESLA.7e1592bd.ttf": "/static/media/TESLA.7e1592bd.ttf",
     "static/media/img1.a0fca9c5.png": "/static/media/img1.a0fca9c5.png",
     "static/media/img2.f5f922c9.png": "/static/media/img2.f5f922c9.png",
     "static/media/img3.6b148454.png": "/static/media/img3.6b148454.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.45588324.js",
+    "static/js/runtime-main.7df6a0d8.js",
     "static/js/2.395d193b.chunk.js",
     "static/css/main.40c24408.chunk.css",
-    "static/js/main.815dc8af.chunk.js"
+    "static/js/main.6f10fb84.chunk.js"
   ]
 }
