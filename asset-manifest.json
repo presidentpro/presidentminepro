@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.40c24408.chunk.css",
-    "main.js": "/static/js/main.6f10fb84.chunk.js",
-    "main.js.map": "/static/js/main.6f10fb84.chunk.js.map",
+    "main.css": "/static/css/main.761ed9cb.chunk.css",
+    "main.js": "/static/js/main.5a996662.chunk.js",
+    "main.js.map": "/static/js/main.5a996662.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7df6a0d8.js",
     "runtime-main.js.map": "/static/js/runtime-main.7df6a0d8.js.map",
     "static/js/2.395d193b.chunk.js": "/static/js/2.395d193b.chunk.js",
@@ -28,7 +28,7 @@
     "static/css/5.6432031b.chunk.css.map": "/static/css/5.6432031b.chunk.css.map",
     "static/css/6.fdd40d69.chunk.css.map": "/static/css/6.fdd40d69.chunk.css.map",
     "static/css/7.da4eb8f2.chunk.css.map": "/static/css/7.da4eb8f2.chunk.css.map",
-    "static/css/main.40c24408.chunk.css.map": "/static/css/main.40c24408.chunk.css.map",
+    "static/css/main.761ed9cb.chunk.css.map": "/static/css/main.761ed9cb.chunk.css.map",
     "static/js/2.395d193b.chunk.js.LICENSE.txt": "/static/js/2.395d193b.chunk.js.LICENSE.txt",
     "static/media/GOLDMINEFULLLOGO.30b0ee88.png": "/static/media/GOLDMINEFULLLOGO.30b0ee88.png",
     "static/media/LOGO-04.3a7a9826.png": "/static/media/LOGO-04.3a7a9826.png",
@@ -40,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.7df6a0d8.js",
     "static/js/2.395d193b.chunk.js",
-    "static/css/main.40c24408.chunk.css",
-    "static/js/main.6f10fb84.chunk.js"
+    "static/css/main.761ed9cb.chunk.css",
+    "static/js/main.5a996662.chunk.js"
   ]
 }
